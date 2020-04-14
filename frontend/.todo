@@ -2,3 +2,11 @@ Babel: Converter (transpilar) código do React para um código que o browser ent
 Webpack: Pra cada tipo de arquivo (.js, .css, .png) eu vou converter o código de uma maneira diferente
 
 Loaders: babel-loader (converter pro browser entender), css-loader, image-loader, file-loader 
+
+JSX: Javascript XML, HTML dentro do JS
+
+Conceitos:
+
+Componentes: Reutilização de código e etc.
+Propriedade: Props, informações passadas de componente pai pra filho.
+Estado
