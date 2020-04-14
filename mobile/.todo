@@ -1,0 +1,6 @@
+Não possuem valor semântico (significado)
+Não possuem estilização própria
+Todos os componentes possuem por padrão "display: flex"
+
+View: div, footer, header, main, aside, section...
+Text: p, span, strong, h1, h2, h3...
